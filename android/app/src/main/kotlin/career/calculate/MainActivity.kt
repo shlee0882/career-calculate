@@ -1,4 +1,4 @@
-package com.example.career_calculate
+package career.calculate
 
 import io.flutter.embedding.android.FlutterActivity
 

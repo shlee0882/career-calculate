@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.career_calculate">
+    package="career.calculate">
    <application
-        android:label="career_calculate"
+        android:label="경력 계산기 앱"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

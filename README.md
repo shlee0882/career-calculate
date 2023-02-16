@@ -2,8 +2,8 @@
 
 ## 개요
 
-직장인을 위한 경력계산 앱<br>
-<br>
+- 직장인을 위한 경력계산 앱
+
 <br>
 
 ## 사용방법
@@ -21,9 +21,10 @@
 
 <br>
 
-## 배포된 Deploy App
+## release app download
 
-
+- aos : https://drive.google.com/file/d/1c0_hdLP3VDCTE0IMf20yh9SI6VSnPcV-/view?usp=share_link
+- ios : mac book과 iphone이 없어 app 추출 및 테스트 불가 합니다...
 <br>
 
 ## 레퍼런스
