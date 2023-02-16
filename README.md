@@ -1,16 +1,31 @@
-# career_calculate
+<br>
 
-A new Flutter project.
+## 개요
 
-## Getting Started
+직장인을 위한 경력계산 앱<br>
+<br>
+<br>
 
-This project is a starting point for a Flutter application.
+## 사용방법
 
-A few resources to get you started if this is your first Flutter project:
+- 연월일에 맞는 근무 시작일을 선택합니다.
+- 선택하면 현재 경력과 근무일수, 예상직급을 표시해줍니다.
+- 미래 날짜는 선택이 불가합니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 사용기술
+
+- Dart, Flutter
+- CupertinoDatePicker
+
+<br>
+
+## 배포된 Deploy App
+
+
+<br>
+
+## 레퍼런스
+
+- https://api.flutter.dev/flutter/cupertino/CupertinoDatePicker-class.html
